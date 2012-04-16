@@ -1,6 +1,6 @@
 <div style="text-align:center">
 <h2>The Bylaws of the Gamma Tau Chapter of the Psi Upsilon Fraternity</h2>
-<p>Last modified April 11, 2012</p>
+<p>Last modified April 16, 2012</p>
 </div>
 
 ### Preamble
@@ -161,7 +161,7 @@ The following procedure shall be used to amend the bylaws:
 	6. To arrange to meet with the Scholarship Chair once per semester to discuss his grades and any need and/or plan for improvement.
 	7. To be present for the entirety of all Brother's Meetings and Rush meetings.
 	8. The ACTIVE BROTHERHOOD may vote to designate any event as an "attendance required" event and fine those ACTIVE BROTHERS absent, however, attendance shall NOT be required of any ACTIVE BROTHER for any event for which he is not given at least two weeks advance notice of the attendance requirement.
-	9. Fines for any of the above events may be set or modified by the member of the EXECUTIVE COUNCIL in charge of the event and then approved by a SIMPLE MAJORITY of the ACTIVE BROTHERHOOD at least two weeks before each event and be available in [the written policy](/about/policies) of the appropriate committee.
+	9. Fines for any of the above events may be set or modified by the member of the EXECUTIVE COUNCIL in charge of the event and then approved by a SIMPLE MAJORITY of the ACTIVE BROTHERHOOD at least two weeks before each event and be available in [the written policy](/policies) of the appropriate committee.
 	10. An ACTIVE BROTHER may be excused from a required event by any the following manners:
 		1. ACADEMIC EXCUSES: An ACTIVE BROTHER may be excused from any required event by submitting in writing to the member of the EXECUTIVE COUNCIL in charge of the event a school-related reason for his absence prior to the event missed. The acceptance of the excuse is subject to the approval of the member of the EXECUTIVE COUNCIL in charge of the event.
 		2. OTHER EXCUSES: If an absence is not excused by academic reasons, then the fee may be reduced or absolved by a decision of the Judicial Board.
