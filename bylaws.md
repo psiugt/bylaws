@@ -127,7 +127,7 @@ The following procedure shall be used to amend the bylaws:
 	1. It is the recommendation of these bylaws that any brother who has requested personal leave two or fewer times, who has been active for over six semesters, or who is currently enrolled in graduate school be granted personal leave.
 	2. A BROTHER on PERSONAL LEAVE will be required to pay international dues but will have none of the other requirements described by Law 3.
 	3. A BROTHER on PERSONAL LEAVE will have all of the rights described by Law 4 with the exception of the right to vote.
-	4. A BROTHER who is taking his or her official semester break (as defined by the Georgia Institute of Technology) and is not residing in the chapter house, is on his or her co-op work semester, or is studying abroad may request to be reported as “Not Enrolled in school”. These brothers will have all of the rights of brothers on PERSONAL LEAVE but will not be required to pay international dues.
+	4. A BROTHER who is on his or her co-op work semester, is taking his or her official semester break (as defined by the Georgia Institute of Technology) and is not residing in the chapter house, or is studying abroad may request to be reported as “Not Enrolled in school”. These brothers will have all of the rights of brothers on PERSONAL LEAVE but will not be required to pay international dues.
 3. An ACTIVE BROTHER who has not met his financial obligations to the chapter may be assigned the status of PROBATION as follows:
 	1. The status of PROBATION shall be assigned by a decision of the Judicial Board.
 	2. A Brother on PROBATION shall not take part in social, athletic, professional, or Ritual activities of the Chapter.
@@ -592,7 +592,7 @@ The Judicial Board shall be appointed and confirmed by the following procedure:
 	3. A TWO-THIRDS MAJORITY is required in order to remove a Judicial Board member.
 2. Any Judicial Board member may step down from their position.
 3. In the event of the removal of a Judicial Board member, the first reserve member will complete the removed member's term.
-4. In the event that no reserve member are available a new pair of reserve members will be appointed and confirmed per the procedure given in Law 3.
+4. In the event that no reserve member are available a new pair of reserve members will be appointed and confirmed per the procedure given in Law 3.
 
 #### Section 3: Procedure [art5sec3]
 
