@@ -474,6 +474,7 @@ The following procedure shall be used to amend the bylaws:
 	5. To plan and coordinate the pledge installation dinner.
 5. To educate the Members.
 	1. To conduct session to educate the members on the policies and history of the Chapter including Rush and House policies.
+	2. To oversee the BROTHER'S KEEPERs of BROTHERs currently on Personal Leave.
 6. To aid the Members in their pursuit of education at Georgia Tech.
 	1. To meet with each ACTIVE BROTHER and PLEDGE once per semester to discuss that person's academic performance and any need or plan for improvement.
 	2. To coordinate tutors and study partners in the Chapter.
