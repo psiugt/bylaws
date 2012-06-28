@@ -1,6 +1,6 @@
 <div style="text-align:center">
 <h2>The Bylaws of the Gamma Tau Chapter of the Psi Upsilon Fraternity</h2>
-<p>Last modified April 16, 2012</p>
+<p>Last modified June 3, 2012</p>
 </div>
 
 ### Preamble
@@ -647,4 +647,4 @@ The Judicial Board may:
 
 ##### Law 3: Non-members
 
-The Judicial Board may ban a non-members from the entering the Chapter House for a length of time.
+The Judicial Board may ban a non-member from the entering the Chapter House for a length of time.
