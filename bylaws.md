@@ -1,6 +1,6 @@
 <div style="text-align:center">
 <h2>The Bylaws of the Gamma Tau Chapter of the Psi Upsilon Fraternity</h2>
-<p>Last modified June 3, 2012</p>
+<p>Last modified September 26, 2012</p>
 </div>
 
 ### Preamble
@@ -152,11 +152,11 @@ The following procedure shall be used to amend the bylaws:
 	3. If a BROTHER cannot pay his debt and dues in full by the above deadlines, he shall make a payment plan, with the Treasurer's approval, that will pay off his entire financial obligation by the end of the current semester. Such a plan must be submitted to the Treasurer by the second meeting of the semester.
 	4. In cases of extreme financial crisis, a BROTHER may ask that his dues be divided equally amongst the ACTIVE BROTHERHOOD for the current semester. Such a motion must be made at the first meeting of the semester and requires a UNANIMOUS vote of the ACTIVE BROTHERHOOD.
 	5. If a BROTHER fails to meet these financial obligations, a motion to suspend may be brought as per Article II, Section 5, Law 2.
-2. Each BROTHER shall have set upon him the personal responsibility to meet the following attendance requirements:
+2. Each ACTIVE BROTHER shall have set upon him the personal responsibility to meet the following attendance requirements:
 	1. To be present for all Full House Cleanups.
 	2. To attend all PLEDGE related ceremonies, including but not limited to PLEDGE installation, the PLEDGE outing, and PLEDGE initiation.
 	3. To attend all ALUMNI related events, including but not limited to Founders Day and Alumni Weekend.
-	4. To be present for each day of Rush Cleanup Week.
+	4. To be present for each day of Full House Cleanup Week.
 	5. To be present for each evening of Rush Week.
 	6. To arrange to meet with the Scholarship Chair once per semester to discuss his grades and any need and/or plan for improvement.
 	7. To be present for the entirety of all Brother's Meetings and Rush meetings.
