@@ -580,9 +580,9 @@ The Judicial Board may decide the Chapter's reaction to issues where:
 
 The Judicial Board shall be appointed and confirmed by the following procedure:
 
-1. On the first regularly scheduled meeting of each Fall and Spring semester, the Executive Council shall present to the BROTHERHOOD a list of candidates for the open Judicial Board positions. The list shall contain two (2) candidates beyond the number of open spaces.
+1. Each semester, on the meeting immediately following declaration of activity, the Executive Council shall present to the BROTHERHOOD a list of candidates for the open Judicial Board positions. The list shall contain two (2) candidates beyond the number of open spaces.
 2. No discussion of candidates shall be in order during this meeting.
-3. On the second regularly scheduled meeting a vote will be held according to the following procedure:
+3. On the next regularly scheduled meeting a vote will be held according to the following procedure:
 	1. For each candidate, each BROTHER may vote YES or NO.
 	2. Candidates will be assigned to positions (Primary Members, Interim Members, First Reserve Member, Second Reserve Member) in order of vote count.
 	3. In the case of indecisive ties, seniority by initiation date will determine which candidate is granted the position.
