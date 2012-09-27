@@ -240,9 +240,7 @@ The following procedure shall be used to amend the bylaws:
 	6. By decision of the Judicial Board.
 2. If, at anytime during a PLEDGE's pledgeship, any ACTIVE BROTHER feels that a PLEDGE should be expelled for any of the reason listed in Paragraph 1, then that BROTHER may bring up a motion proposing that the pledge be expelled. The following guidelines will govern such, motions:
 	1. This motion may not be proposed at any meeting where there has been, or is planned, a motion to be made to initiate any PLEDGE(s).
-	2. After such a motion has been made, discussion will be opened.
-	3. After discussion is complete, the matter shall be tabled until the next Brother's Meeting.
-	4. During the old business section of the next Brother's Meeting, the motion may be untabled and discussion of the matter reopened. After the close of discussion, there will be a vote on the motion, by secret ballot. The vote will consist of two options: a YES vote, which is a vote in favor of the motion to expel the PLEDGE, or a NO vote, which is a vote against the motion to expel the PLEDGE. This vote requires a SIMPLE MAJORITY of the ACTIVE BROTHERHOOD to pass. If this vote passes, then the PLEDGE is immediately expelled.
+	2. This vote requires a SIMPLE MAJORITY of the ACTIVE BROTHERHOOD to pass. If this vote passes, then the PLEDGE is immediately expelled.
 3. A PLEDGE will be automatically expelled if he has not been initiated within two PLEDGE TERMS after accepting his bid unless he is granted an extension of his pledgeship, not to exceed two PLEDGE TERMS, via a SIMPLE MAJORITY favorable vote of the ACTIVE BROTHERHOOD.
 4. A PLEDGE may upon his own request, after the President, Pledge Education Committee Chairman, or the Big Brother of the PLEDGE have discussed the matter with him and have clearly determined his reasons for the request, suspend his pledgeship for a period not to exceed one semester.
 5. A PLEDGE may upon his own request, after the President, Pledge Education Committee Chairman, or the Big Brother of the PLEDGE in question have discussed the matter with him and have clearly determined his reasons for the request, terminate his own pledgeship.
