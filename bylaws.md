@@ -565,13 +565,16 @@ The Judicial Board may decide the Chapter's reaction to issues where:
 
 1. The number of primary members on the Judicial Board shall be number of the Executive Council members rounded up to the nearest odd number.
 2. There shall be two (2) reserve members, a first and second reserve members. In the case where primary members of the Judicial Board resign or must recuse themselves from an issue, the reserve members will take their place in their specified order. In the case where more than two reserve members are needed, the brotherhood should make a decision about how to respond.
-3. All members of the Judicial Board must be ACTIVE BROTHERs.
-4. No BROTHER may serve concurrently on the Executive Council and the Judicial Board.
+3. The requirements of members of the Judicial Board are as follows:
+	1. All members of the Judicial Board must be ACTIVE BROTHERs.
+	2. No BROTHER may serve concurrently on the Executive Council and the Judicial Board.
+4. In the event that a member of the Judicial Board cannot serve for any period during his term, an interim member will be elected to serve during his absence. Should the primary member find himself unable to serve for the remainder of his term, the interim member shall be considered his replacement as primary member.
 
 ##### Law 2: Terms of Office
 
 1. Each primary and reserve member of the Judicial Board will serve one-year terms, staggered so that the majority of the primary members of the Board are appointed at the beginning of each Fall semester, and the minority of the normal members Board each Spring.
-2. Reserve members are appointed each Fall and Spring.
+2. Reserve members are appointed each semester.
+3. Interim members may be elected during any semester, as required by Article V, Section 2, Law 1, Paragraph 4.
 
 ##### Law 3: Appointment
 
@@ -581,7 +584,7 @@ The Judicial Board shall be appointed and confirmed by the following procedure:
 2. No discussion of candidates shall be in order during this meeting.
 3. On the second regularly scheduled meeting a vote will be held according to the following procedure:
 	1. For each candidate, each BROTHER may vote YES or NO.
-	2. Candidates will be assigned to positions (Primary Members, First Reserve Member, Second Reserve Member) in order of vote count.
+	2. Candidates will be assigned to positions (Primary Members, Interim Members, First Reserve Member, Second Reserve Member) in order of vote count.
 	3. In the case of indecisive ties, seniority by initiation date will determine which candidate is granted the position.
 	4. No candidate may be appointed to any position on the Judicial Board without a simple majority of YES votes.
 
