@@ -96,7 +96,7 @@ The following procedure shall be used to amend the bylaws:
 			1. If the PLEDGE receives no votes of VETO, but does not receive a 3/4 majority of YES votes, then the pledge is not initiated.
 			2. If the PLEDGE receives between one and 10 per cent votes of VETO, and this is not a third or later vote on the same PLEDGE during the same meeting, then the remainder of the votes is discarded and discussion is reopened. Following this discussion another vote will occur by the procedure in Way 3.
 			3. If the vote is a third or greater vote, and the total results have not changed from the previous vote, then this will be the final vote and the results stand. In this case, any remaining votes of VETO will be counted as NO votes. A THREE-FOURTHS MAJORITY of YES votes from the ELIGBLE BROTHERHOOD are required to initiate, as per normal procedure.
-5. Any PLEDGE who does not get initiated in one PLEDGE TERM and wishes to continue their pledgeship must do the following:
+4. Any PLEDGE who does not get initiated in one PLEDGE TERM and wishes to continue their pledgeship must do the following:
 	1. Have their pledgeship renewed by the BROTHERHOOD within one month of the start of the PLEDGE TERM.
 	2. Re-complete the requirements outlined above under PLEDGE requirements. Re-completion of any or all of these requirements may be waived by a simple majority vote of the BROTHERHOOD.
 
