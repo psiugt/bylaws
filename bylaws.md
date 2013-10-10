@@ -17,6 +17,7 @@ As used in these bylaws, the term:
 
 - MEMBER refers to a person who is classified as a PLEDGE, BROTHER, ALUMNUS, or HONORARY BROTHER.
 - PLEDGE refers to a person as described in Article II, Section 1, Law 1.
+- DEPLEDGE refers to the termination of a PLEDGE's status as a PLEDGE by the brotherhood.
 - PLEDGE TERM refers to a period of time described in Article II, Section 1, Law 1.
 - BROTHER refers to a person as described in Article II, Section 2, Law 1.
 - ACTIVE BROTHER refers to a status conferred upon a BROTHER, along with accompanying rights, privileges, and requirements, who has fulfilled his financial obligation to the Chapter.
@@ -91,7 +92,7 @@ The following procedure shall be used to amend the bylaws:
 	2. Non-personal vote totals are to be recorded for the purpose outlined in Way 3. Any such results must be obliterated before any other PLEDGE may be initiated. They will consist of the total votes cast in each of the three categories (YES, NO, or VETO).
 	3. After each vote, the votes will be tallied and interpreted as follows:
 		1. If the pledge receives a THREE-FOURTHS MAJORITY of YES votes from the ELIGIBLE BROTHERHOOD and zero votes of VETO, then the pledge is initiated.
-		2. If the pledge receives ten percent (rounded down, to a minimum of 2) or greater votes of VETO on a single vote tally, then the remainder of the votes (consisting of YES and NO votes) is discarded, and the PLEDGE is not initiated. A motion to EXPEL the PLEDGE will immediately be placed on the table to be discussed at the next regularly scheduled Brother's meeting. The procedure for this vote is outlined in Section 5 Law 1 of these Bylaws.
+		2. If the pledge receives ten percent (rounded down, to a minimum of 2) or greater votes of VETO on a single vote tally, then the remainder of the votes (consisting of YES and NO votes) is discarded, and the PLEDGE is not initiated. A motion to DEPLEDGE the PLEDGE will immediately be placed on the table to be discussed at the next regularly scheduled Brother's meeting. The procedure for this vote is outlined in Section 5 Law 1 of these Bylaws.
 		3. If the pledge receives any votes of VETO below the threshold in part 'ii' and/or fails to earn a THREE-FOURTHS MAJORITY of YES votes from the ACTIVE BROTHERHOOD, then discussion is reopened. Following this discussion, a second vote will occur. The procedure for this vote shall differ from the first in following Ways:
 			1. If the PLEDGE receives no votes of VETO, but does not receive a 3/4 majority of YES votes, then the pledge is not initiated.
 			2. If the PLEDGE receives between one and 10 per cent votes of VETO, and this is not a third or later vote on the same PLEDGE during the same meeting, then the remainder of the votes is discarded and discussion is reopened. Following this discussion another vote will occur by the procedure in Way 3.
@@ -101,7 +102,7 @@ The following procedure shall be used to amend the bylaws:
   2. On the second meeting, only new information should be presented and the votes will be taken. Each ACTIVE BROTHER will cast one vote per PLEDGE by secret ballot.
 		1. A vote of YES indicates that the Brother casting it would like the PLEDGE in question to continue his or her pledge process.
 		2. A vote of ABSTAIN removes the Brother casting it from the voting population. This should be taken to mean that the Brother casting it does not know the PLEDGE in question well enough to form an opinion about him or her.
-		3. A vote of NO indicates that the Brother casting it would like the PLEDGE in question to be released from his or her pledge process.
+		3. A vote of NO indicates that the Brother casting it would like the PLEDGE in question to be DEPLEDGED.
 		4. A vote of STRONG NO indicates that the Brother casting it has a serious opposition to the PLEDGE in question continuing and that trying to address the issues prompting the vote has yielded no (or negative) results.
 		5. If there are more than 25% abstains, a revote may be called. The vote will be retaken at once with no discussion, with these results being final.
 	3. Totals for each PLEDGE shall be calculated.
@@ -233,22 +234,20 @@ The following procedure shall be used to amend the bylaws:
 
 ##### Law 1: Pledges
 
-1. A motion to expel a pledge may be submitted:
+1. A motion to DEPLEDGE a pledge may be submitted:
 	1. If the pledge enters into any negotiations for securing membership in any other social fraternity.
 	2. If the pledge evidences unwillingness to conform to directions given for preparation for initiation.
 	3. If the pledge refuses to complete or to regard seriously the various steps in the initiation.
 	4. If the pledge fails to respect the secrecy of the Chapter by asking BROTHERs, ALUMNI, or other PLEDGEs, to disclose information about the content of secret meetings such as the Brother's Meeting, EXECUTIVE COUNCIL Meetings, or about the content of the Ritual.
 	5. One or more ACTIVE BROTHERs feel, for any reason, that the PLEDGE would not make a good BROTHER of Psi Upsilon.
 	6. By decision of the Judicial Board.
-2. If, at anytime during a PLEDGE's pledgeship, any ACTIVE BROTHER feels that a PLEDGE should be expelled for any of the reason listed in Paragraph 1, then that BROTHER may bring up a motion proposing that the pledge be expelled. The following guidelines will govern such, motions:
+2. If, at anytime during a PLEDGE's pledgeship, any ACTIVE BROTHER feels that a PLEDGE should be DEPLEDGED for any of the reason listed in Paragraph 1, then that BROTHER may bring up a motion proposing that the pledge be DEPLEDGED. The following guidelines will govern such, motions:
 	1. This motion may not be proposed at any meeting where there has been, or is planned, a motion to be made to initiate any PLEDGE(s).
-	2. After such a motion has been made, discussion will be opened.
-	3. After discussion is complete, the matter shall be tabled until the next Brother's Meeting.
-	4. During the old business section of the next Brother's Meeting, the motion may be untabled and discussion of the matter reopened. After the close of discussion, there will be a vote on the motion, by secret ballot. The vote will consist of two options: a YES vote, which is a vote in favor of the motion to expel the PLEDGE, or a NO vote, which is a vote against the motion to expel the PLEDGE. This vote requires a SIMPLE MAJORITY of the ACTIVE BROTHERHOOD to pass. If this vote passes, then the PLEDGE is immediately expelled.
-3. A PLEDGE will be automatically expelled if he has not been initiated within two PLEDGE TERMS after accepting his bid unless he is granted an extension of his pledgeship, not to exceed two PLEDGE TERMS, via a SIMPLE MAJORITY favorable vote of the ACTIVE BROTHERHOOD.
+	2. This vote requires a SIMPLE MAJORITY of the ACTIVE BROTHERHOOD to pass. If this vote passes, then the PLEDGE is immediately DEPLEDGED.
+3. A PLEDGE will be automatically DEPLEDGED if he has not been initiated within two PLEDGE TERMS after accepting his bid unless he is granted an extension of his pledgeship, not to exceed two PLEDGE TERMS, via a SIMPLE MAJORITY favorable vote of the ACTIVE BROTHERHOOD.
 4. A PLEDGE may upon his own request, after the President, Pledge Education Committee Chairman, or the Big Brother of the PLEDGE have discussed the matter with him and have clearly determined his reasons for the request, suspend his pledgeship for a period not to exceed one semester.
 5. A PLEDGE may upon his own request, after the President, Pledge Education Committee Chairman, or the Big Brother of the PLEDGE in question have discussed the matter with him and have clearly determined his reasons for the request, terminate his own pledgeship.
-6. A PLEDGE who has terminated his own pledgeship or who has been suspended or expelled shall return his PLEDGE pin to the Pledge Educator.
+6. A PLEDGE who has terminated his own pledgeship or who has been suspended or DEPLEDGED shall return his PLEDGE pin to the Pledge Educator.
 
 ##### Law 2: Suspension and Expulsion of BROTHERs
 
@@ -653,7 +652,7 @@ If as part of Judicial Board decision a sentence is assigned, any BROTHER may ma
 The Judicial Board may:
 
 1. Suspend the pledge status of a PLEDGE until the next PLEDGE TERM.
-2. Release a PLEDGE.
+2. DEPLEDGE a PLEDGE.
 3. Ban a PLEDGE from entering the chapter house for a length of time.
 
 ##### Law 3: Non-members
