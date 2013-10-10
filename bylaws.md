@@ -267,7 +267,7 @@ The following procedure shall be used to amend the bylaws:
 
 1. A MEMBER suspended by the Chapter shall be reinstated when his period of suspension has elapsed, or by a THREE-FOURTHS MAJORITY favorable vote of the ACTIVE BROTHERHOOD taken at the first or second Brother's Meeting of the semester.
 
-### ARTICLE III: The Executive Council (EC) and Other Officers [art3]
+### ARTICLE III: The Executive Council (EC) [art3]
 
 #### Section 1: Officers of the Executive Council [art3sec1]
 
@@ -291,7 +291,7 @@ The following procedure shall be used to amend the bylaws:
 	3. To ensure that minutes and attendance are taken at each Committee meeting that he chairs.
 	4. To exhaust all available means to meet the requirements of his office for his entire elected term.
 	5. To give reports at House and Brother's meetings on the state of affairs of the office and ongoing projects, events, etc.
-	6. To submit budgetary items to the Treasurer for approval.
+	6. To submit budgetary items to the Vice President of the House for approval.
 	7. To aid the Vice President of Member Education with Rush at his request.
 	8. To submit scheduling items to the Vice President of Internal Affairs for approval.
 	9. To submit all event plans to the Vice President of External Affairs to ensure compliance with regulations.
@@ -321,11 +321,13 @@ The following procedure shall be used to amend the bylaws:
 2. To represent Brother Thesauristes in all ritual activities of the Chapter.
 3. To represent Donatello in the TMNT.
 4. To chair the weekly House Meetings.
-5. To chair and schedule the weekly meetings of the House Committee.
-6. To assign duties to the members of the House Committee and ensure that these duties are performed.
-7. To keep himself familiar with the activities of the other members of the House Committee.
-8. To dutifully perform the role of other House Committee members in their absence.
-9. To reside in the Chapter House in order to better perform his duties.
+5. To be the single point of contact for all financial matters.
+6. To maintain current detailed ledgers of accounts held with and by the Chapter.
+7. To chair and schedule the weekly meetings of the House Committee.
+8. To assign duties to the members of the House Committee and ensure that these duties are performed.
+9. To keep himself familiar with the activities of the other members of the House Committee.
+10. To dutifully perform the role of other House Committee members in their absence.
+11. To reside in the Chapter House in order to better perform his duties.
 
 ##### Law 4: Responsibilities of the Vice President of Member Education [memberedvp]
 
@@ -363,24 +365,11 @@ The following procedure shall be used to amend the bylaws:
 8. To keep himself familiar with the activities of the other members of the Internal Affairs Committee.
 9. To dutifully perform the role of other Internal Affairs Committee members in their absence.
 
-#### Section 2: Other Elected Officers [art3sec2]
-
-### Law 1: Responsibilities of the Treasurer
-
-1. To be the single point of contact for all financial matters.
-2. To collect money from those who owe money to the Chapter and to assess and see to the payment of bills for Chapter services and functions.
-3. To maintain current detailed ledgers of accounts held with and by the Chapter.
-4. To keep each MEMBER regularly appraised of their financial standing with the Chapter and to provide financial status information of a MEMBER's account at the request of that MEMBER.
-5. To collect all fines, including those for event absences, meeting absences, and failure to perform house jobs.
-6. To propose a budget for the upcoming semester at the last meeting of every semester.
-7. To attend House Committee meetings.
-
-
-#### Section 3: Installation and Removal [art3sec3]
+#### Section 2: Installation and Removal [art3sec2]
 
 ##### Law 1: Nomination and Election
 
-1. The term length for all officers shall be approximately one calendar year beginning on the date of their Installation and ending when their successor is installed.
+1. The term length for all EXECUTIVE COUNCIL members shall be approximately one calendar year beginning on the date of their Installation and ending when their successor is installed.
 2. Nominations for officers whose term of office will expire at the end of the current semester shall be opened at the fifth to last Brother's Meeting of the current semester and reopened immediately before elections.
 3. Nominations for an office that has been prematurely vacated shall be opened during the meeting it becomes vacant and reopened immediately before elections.
 4. Only ACTIVE BROTHERs currently enrolled at the Georgia Institute of Technology are eligible for nomination.
@@ -388,8 +377,8 @@ The following procedure shall be used to amend the bylaws:
 6. Elections for offices whose current office's term will expire at the end of the current semester shall be held at the third and second to last Brother's Meetings of the semester.
 7. Elections for offices that have been prematurely vacated shall be held at the next regularly scheduled Brother's Meeting following the meeting at which the office was vacated.
 8. The Installation of new officers shall occur during the meeting following the initiation following the last officer's election.
-9. The procedure used for election of officers shall be as follows:
-	1. Elections shall be held in the order of highest office of the EXECUTIVE COUNCIL to the lowest over a period of two Meetings, where the top two offices take place at the first Meeting and the last three offices take place during the second Meeting. The election of the Treasurer will take place immediately following the election of the Vice-President of the House.
+9. The procedure used for election of Officers of the EXECUTIVE COUNCIL shall be as follows:
+	1. Elections shall be held in the order of highest office to lowest office over a period of two Meetings, where the top two offices take place at the first Meeting and the last three offices take place during the second Meeting.
 	2. At the start of elections, all candidates will be asked to leave the room. The candidates shall return one at a time in alphabetical order to give a speech and answer any questions.
 	3. Any candidates who cannot be available at the time of the election, must have their qualification sheet and/or speech read by an appointed assistant at the election, and be available by phone to answer any questions.
 	4. Once all candidates have given their speeches and answered questions, all candidates will be asked to wait in another room while the Chapter discusses the candidates.
@@ -400,7 +389,7 @@ The following procedure shall be used to amend the bylaws:
 	9. If no candidate receives a SIMPLE MAJORITY of favorable votes, all proxy votes will be permanently discarded, and a runoff vote will immediately occur between the two candidates with the most votes.
 	10. In the event that a SIMPLE MAJORITY of votes are cast "No Confidence", or in the event that the first or second highest scoring vote was "No Confidence", all proxy votes will be permanently discarded, the candidates will be asked to immediately return to the meeting and the meeting shall return directly to the pre-election nominations phase.
 	11. Once a winner has been determined, the candidates will be asked to return to the meeting and the results announced.
-10. Any officer who shall not have ACTIVE BROTHER status during summer semester may appoint a substitute representative to hold the post during that semester.
+10. Any EXECUTIVE COUNCIL member who shall not have ACTIVE BROTHER status during summer semester may appoint a substitute representative to hold the post during that semester.
 
 ##### Law 2: Resignation
 
@@ -431,7 +420,13 @@ The following procedure shall be used to amend the bylaws:
 ##### Law 2: Responsibilities of the House Committee [housecomm]
 
 1. The House Committee shall be chaired by the Vice President of the House.
-2. To aid the Vice President of the House in his financial duties including but not limited to collecting rent and parlor fees.
+2. To aid the Vice President of the House in his financial duties including but not limited to:
+	1. To collect money from those who owe money to the Chapter and to assess bills for Chapter services and functions.
+	2. To keep each MEMBER regularly appraised of their financial standing with the Chapter and to provide financial status information of a MEMBER's account at the request of that MEMBER.
+	3. To propose a budget for the upcoming semester at the last meeting of every semester.
+	4. To see to the payment of Chapter bills.
+	5. To collect rent and parlor fees.
+	6. To collect all fines including event and meeting attendance, and house job.
 3. To manage the House and the Chapter's property.
 	1. To act as an agent of PUSOG for the purpose of issuing and collecting housing contracts, eviction notices, etc.
 	2. To secure the lodge room during Brothers Meetings.
