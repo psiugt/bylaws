@@ -452,9 +452,9 @@ The following procedure shall be used to amend the bylaws:
 	2. To act as liaison to the Georgia Institute of Technology's Office of Information Technology.
 7. To conduct Fundraising for the Chapter to assist with the financial stability of the Chapter.
 	1. To manage the fund raising projects.
-	2. To keep accurate records of all money raised and spent, and ensure that the Treasurer has a copy.
-	3. To keep accurate records of all money raised and spent, and insure that the Treasurer of the House has a copy.
-	4. To keep accurate records of all money raised and spent, and insure that the Treasurer has a copy.
+	2. To keep accurate records of all money raised and spent, and ensure that Vice President of the House has a copy.
+	3. To keep accurate records of all money raised and spent, and insure that Vice President of the House has a copy.
+	4. To keep accurate records of all money raised and spent, and insure that Vice President of the House has a copy.
 
 ##### Law 3: Responsibilities of the Member Education Committee [memberedcomm]
 
