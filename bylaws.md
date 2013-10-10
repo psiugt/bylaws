@@ -96,7 +96,18 @@ The following procedure shall be used to amend the bylaws:
 			1. If the PLEDGE receives no votes of VETO, but does not receive a 3/4 majority of YES votes, then the pledge is not initiated.
 			2. If the PLEDGE receives between one and 10 per cent votes of VETO, and this is not a third or later vote on the same PLEDGE during the same meeting, then the remainder of the votes is discarded and discussion is reopened. Following this discussion another vote will occur by the procedure in Way 3.
 			3. If the vote is a third or greater vote, and the total results have not changed from the previous vote, then this will be the final vote and the results stand. In this case, any remaining votes of VETO will be counted as NO votes. A THREE-FOURTHS MAJORITY of YES votes from the ELIGBLE BROTHERHOOD are required to initiate, as per normal procedure.
-5. Any PLEDGE who does not get initiated in one PLEDGE TERM and wishes to continue their pledgeship must do the following:
+5. During each PLEDGE TERM, screening vote proceedings will take place over the course of two consecutive meetings according to the following procedure.
+	1. On the first meeting, each PLEDGE will be discussed. In the time between the two meetings, it is the responsibility of each PLEDGE’s big Brother to make sure steps to resolve conflicts dealing with his little Brother have been taken.
+	2. On the second meeting, only new information should be presented and the votes will be taken. Each ACTIVE BROTHER will cast one vote per PLEDGE by secret ballot.
+		1. A vote of YES indicates that the Brother casting it would like the PLEDGE in question to continue his or her pledge process.
+		2. A vote of ABSTAIN removes the Brother casting it from the voting population. This should be taken to mean that the Brother casting it does not know the PLEDGE in question well enough to form an opinion about him or her.
+		3. A vote of NO indicates that the Brother casting it would like the PLEDGE in question to be released from his or her pledge process.
+		4. A vote of STRONG NO indicates that the Brother casting it has a serious opposition to the PLEDGE in question continuing and that trying to address the issues prompting the vote has yielded no (or negative) results.
+		5. If there are more than 25% abstains, a revote may be called. The vote will be retaken at once with no discussion, with these results being final.
+	3. Totals for each PLEDGE shall be calculated.
+	4. Any PLEDGE receiving at least 50 per cent votes of YES, AND fewer than 20 per cent (rounded down) votes of STRONG NO, will continue his or her pledge process.
+	5. Any PLEDGE receiving fewer than 50 per cent votes of YES, OR at least 20 per cent (rounded down) votes of STRONG NO, will be released from his or her pledge process.
+6. Any PLEDGE who does not get initiated in one PLEDGE TERM and wishes to continue their pledgeship must do the following:
 	1. Have their pledgeship renewed by the BROTHERHOOD within one month of the start of the PLEDGE TERM.
 	2. Re-complete the requirements outlined above under PLEDGE requirements. Re-completion of any or all of these requirements may be waived by a simple majority vote of the BROTHERHOOD.
 
