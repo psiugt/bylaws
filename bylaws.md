@@ -410,7 +410,7 @@ The following procedure shall be used to amend the bylaws:
 
 ##### Law 3: Involuntary Removal from Office
 
-1. Should an officer become an ALUMNUS during their term, they shall be automatically removed from office.
+1. Should an EXECUTIVE council member become an ALUMNUS during their term, they shall be automatically removed from office.
 2. Officers may be removed from office by a THREE-FOURTHS MAJORITY vote of the ACTIVE BROTHERHOOD.
 3. Any officer for which a motion for involuntarily removal from office will be submitted, as well as all ACTIVE BROTHERs, must be notified no less than two-weeks prior to the meeting at which the issue is to be discussed. The officer in question shall be notified in writing.
 
