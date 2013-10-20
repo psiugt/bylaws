@@ -11,7 +11,7 @@ The bylaws of the Gamma Tau Chapter of the Psi Upsilon Fraternity have been crea
 
 ### <h3 id="art1">ARTICLE I: The Bylaws</h3>
 
-#### <h3 id="art1sec1">Section 1: Definitions</h3>
+#### <h4 id="art1sec1">Section 1: Definitions</h4>
 
 As used in these bylaws, the term:
 
@@ -30,7 +30,7 @@ As used in these bylaws, the term:
 - THREE-FOURTHS MAJORITY refers to a number greater than or equal to 75% of the group in question.
 - QUORUM refers to the minimum number of people necessary to hold a meeting, and is defined for the purposes of these bylaws to be a SIMPLE MAJORITY of the group in question.
 
-#### <h3 id="art1sec2">Section 2: Ratification and Amendments</h3>
+#### <h4 id="art1sec2">Section 2: Ratification and Amendments</h4>
 
 ##### Law 1: Ratification
 
@@ -46,7 +46,7 @@ The following procedure shall be used to amend the bylaws:
 4. When discussion has concluded, the meeting chairman shall call for a motion to vote and upon receiving a second, a vote shall be taken.
 5. For an amendment to be adopted it must receive a THREE-FOURTHS MAJORITY of favorable votes of the ACTIVE BROTHERHOOD.
 
-#### <h3 id="art1sec3">Section 3: Bylaw Policies</h3>
+#### <h4 id="art1sec3">Section 3: Bylaw Policies</h4>
 
 ##### Law 1: Conflicts
 
@@ -64,7 +64,7 @@ The following procedure shall be used to amend the bylaws:
 
 ### <h3 id="art2">ARTICLE II: Membership</h3>
 
-#### <h3 id="art2sec1">Section 1: Pledges</h3>
+#### <h4 id="art2sec1">Section 1: Pledges</h4>
 
 ##### Law 1: Definitions
 
@@ -110,7 +110,7 @@ The following procedure shall be used to amend the bylaws:
 5. There shall be NO activity or function required of a PLEDGE by any MEMBER of Psi Upsilon which violates the precepts of Psi Upsilon, the National Constitution, the Chapter bylaws, or which violates any national, state, or university laws or regulations.
 6. If a conflict of interest exists between a PLEDGE and his big brother, as determined by a SIMPLE MAJORITY of the ACTIVE BROTHERHOOD, the PLEDGE shall choose a new big brother from the ACTIVE BROTHERHOOD.
 
-#### <h3 id="art2sec2">Section 2: BROTHERs</h3>
+#### <h4 id="art2sec2">Section 2: BROTHERs</h4>
 
 ##### Law 1: Definition
 
@@ -200,7 +200,7 @@ The following procedure shall be used to amend the bylaws:
 2. ALUMNI should make every effort to attend Founder's Day and Alumni Weekend events organized by the Chapter.
 3. ALUMNI are required to pay any balance owed to the Chapter as soon as is possible after being granted ALUMNI status.
 
-#### <h3 id="art2sec4">Section 4: Honorary Brothers</h3>
+#### <h4 id="art2sec4">Section 4: Honorary Brothers</h4>
 
 ##### Law 1: Definition
 
@@ -219,7 +219,7 @@ The following procedure shall be used to amend the bylaws:
 2. Any vote to select someone as an HONORARY BROTHER shall be announced no less than two weeks in advance, at a regularly scheduled Brother's Meeting.
 3. A person may come up to a vote to be made an HONORARY BROTHER no more than once per semester.
 
-#### <h3 id="art2sec5">Section 5: Release of PLEDGEs and BROTHERs</h3>
+#### <h4 id="art2sec5">Section 5: Release of PLEDGEs and BROTHERs</h4>
 
 ##### Law 1: Pledges
 
@@ -260,7 +260,7 @@ The following procedure shall be used to amend the bylaws:
 
 ### <h3 id="art3">ARTICLE III: The Executive Council (EC) and Other Officers</h3>
 
-#### <h3 id="art3sec1">Section 1: Officers of the Executive Council</h3>
+#### <h4 id="art3sec1">Section 1: Officers of the Executive Council</h4>
 
 ##### Law 1: Definition and Purpose
 
@@ -290,7 +290,7 @@ The following procedure shall be used to amend the bylaws:
 	1. To meet weekly to set an agenda for the Brothers Meeting and report on the sate of affairs of their offices.
 	2. To actively disclose any official actions to the rest of the ACTIVE BROTHERHOOD.
 
-##### <h3 id="president">Law 2: Responsibilities of the President of the Fraternity</h3>
+##### <h5 id="president">Law 2: Responsibilities of the President of the Fraternity</h5>
 
 1. The office of President of the Fraternity shall be the highest office of the Fraternity.
 2. To represent Brother Archon in all ritual activities of the Chapter.
@@ -306,7 +306,7 @@ The following procedure shall be used to amend the bylaws:
 12. To reside in the Chapter House in order to better perform his duties.
 13. To complete the Membership Report and mail it to the International Office on time.
 
-##### <h3 id="housevp">Law 3: Responsibilities of the Vice President of the House</h3>
+##### <h5 id="housevp">Law 3: Responsibilities of the Vice President of the House</h5>
 
 1. The office of Vice-President of the House shall be the second highest office of the Fraternity.
 2. To represent Brother Thesauristes in all ritual activities of the Chapter.
@@ -318,7 +318,7 @@ The following procedure shall be used to amend the bylaws:
 8. To dutifully perform the role of other House Committee members in their absence.
 9. To reside in the Chapter House in order to better perform his duties.
 
-##### <h3 id="memberedvp">Law 4: Responsibilities of the Vice President of Member Education</h3>
+##### <h5 id="memberedvp">Law 4: Responsibilities of the Vice President of Member Education</h5>
 
 1. The office of Vice-President of Member Education shall be the third highest office of the Fraternity.
 2. To represent Brother First Angelos.
@@ -330,7 +330,7 @@ The following procedure shall be used to amend the bylaws:
 8. To keep himself familiar with the activities of the other members of the Member Education Committee.
 9. To dutifully perform the role of other Member Education Committee members in their absence.
 
-##### <h3 id="externalvp">Law 5: Responsibilities of the Vice President of External Affairs</h3>
+##### <h5 id="externalvp">Law 5: Responsibilities of the Vice President of External Affairs</h5>
 
 1. The office of Vice-President of External Affairs shall be the fourth highest office of the Fraternity.
 2. To represent Brother Second Angelos.
@@ -342,7 +342,7 @@ The following procedure shall be used to amend the bylaws:
 8. To assign duties to the members of the External Affairs and ensure that these duties are performed.
 9. To keep himself familiar with the activities of the other members of the External Affairs Committee.
 
-##### <h3 id="internalvp">Law 6: Responsibilities of the Vice President of Internal Affairs</h3>
+##### <h5 id="internalvp">Law 6: Responsibilities of the Vice President of Internal Affairs</h5>
 
 1. The office of Vice-President of Internal Affairs shall be the fifth highest office of the Fraternity.
 2. To represent Brother Epistlographos and/or Grammateus.
@@ -354,7 +354,7 @@ The following procedure shall be used to amend the bylaws:
 8. To keep himself familiar with the activities of the other members of the Internal Affairs Committee.
 9. To dutifully perform the role of other Internal Affairs Committee members in their absence.
 
-#### <h3 id="art3sec2">Section 2: Other Elected Officers</h3>
+#### <h4 id="art3sec2">Section 2: Other Elected Officers</h4>
 
 ### Law 1: Responsibilities of the Treasurer
 
@@ -367,7 +367,7 @@ The following procedure shall be used to amend the bylaws:
 7. To attend House Committee meetings.
 
 
-#### <h3 id="art3sec3">Section 3: Installation and Removal</h3>
+#### <h4 id="art3sec3">Section 3: Installation and Removal</h4>
 
 ##### Law 1: Nomination and Election
 
@@ -407,7 +407,7 @@ The following procedure shall be used to amend the bylaws:
 
 ### <h3 id="art4">ARTICLE IV: Committees</h3>
 
-#### <h3 id="art4sec1">Section 1: Committees of the Chapter</h3>
+#### <h4 id="art4sec1">Section 1: Committees of the Chapter</h4>
 
 ##### Law 1: Definition and Purpose
 
@@ -419,7 +419,7 @@ The following procedure shall be used to amend the bylaws:
 2. The Committee system shall consist of the following Committees: House Committee,  Member Education Committee, Internal Affairs Committee, and External Affairs Committee.
 3. All ACTIVE BROTHERS have the responsibility to be an active member in one of the Committees.
 
-##### <h3 id="housecomm">Law 2: Responsibilities of the House Committee </h3>
+##### <h5 id="housecomm">Law 2: Responsibilities of the House Committee </h5>
 
 1. The House Committee shall be chaired by the Vice President of the House.
 2. To aid the Vice President of the House in his financial duties including but not limited to collecting rent and parlor fees.
@@ -447,7 +447,7 @@ The following procedure shall be used to amend the bylaws:
 	3. To keep accurate records of all money raised and spent, and insure that the Treasurer has a copy.
 	4. To keep accurate records of all money raised and spent, and insure that the Treasurer has a copy.
 
-##### <h3 id="memberedcomm">Law 3: Responsibilities of the Member Education Committee</h3>
+##### <h5 id="memberedcomm">Law 3: Responsibilities of the Member Education Committee</h5>
 
 1. The Member Education Committee shall be chaired by the Vice President of Member Education.
 2. To aid the Vice President of Member Education in his Rush duties including but not limited to:
@@ -476,7 +476,7 @@ The following procedure shall be used to amend the bylaws:
 	2. To coordinate tutors and study partners in the Chapter.
 	3. To ensure the Chapter meets IFC minimum standards for scholastic achievement.
 
-##### <h3 id="externalcomm">Law 4: Responsibilities of the External Affairs Committee</h3>
+##### <h5 id="externalcomm">Law 4: Responsibilities of the External Affairs Committee</h5>
 
 1. The External Affairs Committee shall be chaired by the Vice President of External Affairs.
 2. To aid the Vice President of External Affairs in his Risk Management duties including but not limited to:
@@ -505,7 +505,7 @@ The following procedure shall be used to amend the bylaws:
 	3. To coordinate and conduct several "non-party" social activities per semester such as: Weekly outings to local restaurants/bars/clubs; Rafting trips/camping or other outdoor recreation; Weekend revelry such as capture the flag, football, ultimate, V-ball, etc.
 7. To produce content for publishing in the Georgia Tech yearbook, including photograph of current brotherhood and other materials as required.
 
-##### <h3 id="internalcomm">Law 5: Responsibilities of the Internal Affairs Committee</h3>
+##### <h5 id="internalcomm">Law 5: Responsibilities of the Internal Affairs Committee</h5>
 
 1. The Internal Affairs Committee shall be chaired by the Vice President of Internal Affairs.
 2. To aid the Vice President of Internal Affairs in his scheduling duties including but not limited to:
@@ -539,7 +539,7 @@ The following procedure shall be used to amend the bylaws:
 
 ### <h3 id="art5">Article V: The Judicial Board</h3>
 
-#### <h3 id="art5sec1">Section 1: Purpose and Scope</h3>
+#### <h4 id="art5sec1">Section 1: Purpose and Scope</h4>
 
 ##### Law 1: Purpose
 
@@ -555,7 +555,7 @@ The Judicial Board may decide the Chapter's reaction to issues where:
 - A BROTHER has violated policies outlined in the Bylaws of our Chapter or of the Psi Upsilon Constitution, or
 - A BROTHER wishes to appeal a fine applied to their account by any entity within the fraternity other than the Judicial Board.
 
-#### <h3 id="art5sec2">Section 2: Membership</h3>
+#### <h4 id="art5sec2">Section 2: Membership</h4>
 
 ##### Law 1: Members
 
@@ -594,7 +594,7 @@ The Judicial Board shall be appointed and confirmed by the following procedure:
 3. In the event of the removal of a Judicial Board member, the first reserve member will complete the removed member's term.
 4. In the event that no reserve member are available a new pair of reserve members will be appointed and confirmed per the procedure given in Law 3.
 
-#### <h3 id="art5sec3">Section 3: Procedure</h3>
+#### <h4 id="art5sec3">Section 3: Procedure</h4>
 
 ##### Law 1: Judicial Standing
 
@@ -626,7 +626,7 @@ If as part of Judicial Board decision a sentence is assigned, any BROTHER may ma
 5. In the event the previous motion passes, the sponsor of the motion shall be given the floor to make an immediate motion to reduce the punishment by or to a specific extent.
 6. The second motion must be approved by a SIMPLE MAJORITY. If this motion fails and no new motion to reduce the sentence by or to a specific extent is proposed, then the sentence is not reduced.
 
-#### <h3 id="art5sec4">Section 4: Sentences</h3>
+#### <h4 id="art5sec4">Section 4: Sentences</h4>
 
 ##### Law 1: Brothers
 
