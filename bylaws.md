@@ -237,6 +237,7 @@ The following procedure shall be used to amend the bylaws:
 4. A PLEDGE may upon his own request, after the President, Pledge Education Committee Chairman, or the Big Brother of the PLEDGE have discussed the matter with him and have clearly determined his reasons for the request, suspend his pledgeship for a period not to exceed one semester.
 5. A PLEDGE may upon his own request, after the President, Pledge Education Committee Chairman, or the Big Brother of the PLEDGE in question have discussed the matter with him and have clearly determined his reasons for the request, terminate his own pledgeship.
 6. A PLEDGE who has terminated his own pledgeship or who has been suspended or DEPLEDGED shall return his PLEDGE pin to the Pledge Educator.
+7. Any person who has been DEPLEDGED can not receive another bid.
 
 ##### Law 2: Suspension and Expulsion of BROTHERs
 
