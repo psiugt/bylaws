@@ -18,6 +18,8 @@ As used in these bylaws, the term:
 - MEMBER refers to a person who is classified as a PLEDGE, BROTHER, ALUMNUS, or HONORARY BROTHER.
 - PLEDGE refers to a person as described in Article II, Section 1, Law 1.
 - DEPLEDGE refers to the termination of a PLEDGE's status as a PLEDGE by the brotherhood.
+- TERMINATE refers to when a person's pledgeship ends but not due to a DEPLEDGING.
+- EXTEND refers to the person remaining a PLEDGE for another semester.
 - PLEDGE TERM refers to a period of time described in Article II, Section 1, Law 1.
 - BROTHER refers to a person as described in Article II, Section 2, Law 1.
 - ACTIVE BROTHER refers to a status conferred upon a BROTHER, along with accompanying rights, privileges, and requirements, who has fulfilled his financial obligation to the Chapter.
@@ -82,6 +84,7 @@ The following procedure shall be used to amend the bylaws:
 	6. Help the PLEDGE class plan and organize a Social event (to be approved by the Vice President of External Affairs) and then participate in the event.
 	7. Help the PLEDGE class plan and organize a project (to be approved by the Vice President of the House) to improve the Chapter House in a lasting and permanent manner and then participate in the event.
 	8. Have a minimum GPA of 2.2 for the previous semester.
+2. A PLEDGE who does not meet academic requirements to be initiated and is in good academic standing has their pledgeship EXTENDED. A PLEDGE who does not meet academic requirements to be initiated and is not in good academic standing has their pledgeship TERMINATED.
 2. The Psi Upsilon Pledge Pin must be worn at all times except when it is impractical, such as during participation in athletic events or while sleeping.
 3. A PLEDGE must complete the entire initiation Ritual.
 4. ACTIVE BROTHERS, BROTHERS on PERSONAL LEAVE, and ALUMNI who had held ACTIVE status during the most recently concluded Fall or Spring semester and are present at the voting meeting are referred to in this law as the "ELIGIBLE BROTHERHOOD". In order for a PLEDGE to be initiated, he must be voted into the brotherhood by the ELIGIBLE BROTHERHOOD. Only PLEDGES that have met all of the requirements in part one of this section will be considered. There will be no more than 3 meetings per calendar year where a vote is taken to initiate PLEDGE(S), and no fewer than 1, provided that there exist any MEMBERs with PLEDGE status. The process for conducting the vote on the initiation of PLEDGES is as follows:
