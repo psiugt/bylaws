@@ -51,7 +51,7 @@ The bylaws of the Gamma Tau Chapter of the Psi Upsilon Fraternity have been crea
 
 1. BROTHERs and PLEDGEs are considered official MEMBERs of the Gamma Tau chapter of Psi Upsilon.
 
-#### <h4 id="art2sec2">Section 2: BROTHERs</h4>
+#### <h4 id="art2sec2">Section 2: Brothers</h4>
 
 ##### Law 1: Definition
 
@@ -67,17 +67,17 @@ The bylaws of the Gamma Tau Chapter of the Psi Upsilon Fraternity have been crea
 3. A BROTHER may request PERSONAL LEAVE at the beginning of a semester to withdraw from ACTIVE status for that semester. If the J-Board does not grant this request, the BROTHER may choose to be INACTIVE.
 	1. A Brother’s Keeper, a BROTHER whose job is to act as liaison to the BROTHER who is INACTIVE or on PERSONAL LEAVE, will be appointed by the J-Board.
 4. An ACTIVE BROTHER who has not met their financial obligation may be placed on PROBATION.
-	1. A BROTHER on PROBATION may become ACTIVE if they meet their financial obligations mid­semester.
-5. An ACTIVE BROTHER may be placed on SUSPENSION by a THREE­-FOURTHS majority vote.
+	1. A BROTHER on PROBATION may become ACTIVE if they meet their financial obligations mid-semester.
+5. An ACTIVE BROTHER may be placed on SUSPENSION by a THREE-FOURTHS majority vote.
 	1. The BROTHER in question must abstain from the vote.
 	2. The length of SUSPENSION must be specified in the motion and may not exceed one year.
 	3. Any motion to SUSPEND a BROTHER must be tabled for two weeks, and the BROTHER in question must be aware of the motion for the tabling period.
-	4. At the beginning of a semester, a SUSPENDED BROTHER may be reinstated early by THREE-­FOURTHS majority.
+	4. At the beginning of a semester, a SUSPENDED BROTHER may be reinstated early by THREE-FOURTHS majority.
 	5. If a SUSPENDED BROTHER lives in the Chapter House, they will be given 60 days to vacate.
 
 ##### Law 3: Honorary Brothers
 
-1. A NON­-MEMBER conventionally ineligible for Brotherhood may be initiated into Psi Upsilon as an HONORARY BROTHER in recognition of truly outstanding contribution to the Brotherhood.
+1. A NON-MEMBER conventionally ineligible for Brotherhood may be initiated into Psi Upsilon as an HONORARY BROTHER in recognition of truly outstanding contribution to the Brotherhood.
 2. A person must be brought up for consideration as an HONORARY BROTHER at least two weeks prior to initiation and no more than once per semester.
 3. The vote to initiate an HONORARY BROTHER must use Throne Room procedure.
 4. HONORARY BROTHERS are otherwise treated no differently than all other BROTHERs.
@@ -85,7 +85,7 @@ The bylaws of the Gamma Tau Chapter of the Psi Upsilon Fraternity have been crea
 ##### Law 4: Expulsion
 
 1. Psi Upsilon does not recognize any voluntary withdrawal from Brotherhood.
-2. A BROTHER of the Gamma Tau chapter may only be EXPELLED by a THREE­-FOURTHS majority vote.
+2. A BROTHER of the Gamma Tau chapter may only be EXPELLED by a THREE-FOURTHS majority vote.
 	1. The BROTHER in question must abstain from the vote.
 	2. Any motion to EXPEL a BROTHER must be tabled for two weeks, and the BROTHER in question must be aware of the motion for the tabling period.
 	3. If the motion passes, the EXPELLED person will no longer be considered a BROTHER.
@@ -105,19 +105,19 @@ The bylaws of the Gamma Tau Chapter of the Psi Upsilon Fraternity have been crea
 		1. BROTHERS on PERSONAL LEAVE must pay the portion of Chapter dues that constitute International dues.
 		2. A BROTHER may instead negotiate a payment plan with the Treasurer to pay dues by the end of the semester.
 		3. A BROTHER may petition the Brotherhood to split their dues evenly amongst the rest of the ACTIVES for one semester. Such a motion requires UNANIMOUS approval.
-	3. BROTHERS who have not met their financial obligation are referred to the J­-Board.
+	3. BROTHERS who have not met their financial obligation are referred to the J-Board.
 2. ACTIVE BROTHERs will meet attendance requirements.
 	1. Events may be made required by Executive Committee Policy as long as the requirement is known two weeks prior to the event in question.
 	2. The establishment of a fine for missing an event must be approved by a SIMPLE majority and must be available in Executive Committee Policy at least two weeks in advance.
 	3. An absence may be excused by an Officer of the Executive Committee for academic or other reasons provided the absent BROTHER notifies the Executive Committee beforehand.
 3. ACTIVE BROTHERs will complete philanthropy requirements found in Executive Committee Policy.
 4. ACTIVE BROTHERs will participate in one permanent committee.
-5. BROTHERs will maintain secrecy to non-­BROTHERs about secret Rituals, Brothers’ Meetings and matters discussed therein, and any other matter considered secret by the Chapter.
-6. BROTHERs will maintain appropriately non-­intimate relationships with the PLEDGEs.
+5. BROTHERs will maintain secrecy to non-BROTHERs about secret Rituals, Brothers’ Meetings and matters discussed therein, and any other matter considered secret by the Chapter.
+6. BROTHERs will maintain appropriately non-intimate relationships with the PLEDGEs.
 	1. Any BROTHER who begins an inappropriate relationship with a PLEDGE must disclose so to the Executive Committee and will be stripped of all voting and discussion rights on issues pertaining to the aforementioned PLEDGE in particular.
 7. BROTHERs on PERSONAL LEAVE will complete requirements found in J-Board policy.
 
-####<h4 id="art2sec3">Section 3: PLEDGEs</h4>
+####<h4 id="art2sec3">Section 3: Pledges</h4>
 
 ##### Law 1: Definitions
 
@@ -156,28 +156,28 @@ The bylaws of the Gamma Tau Chapter of the Psi Upsilon Fraternity have been crea
 
 1. After discussion, vote will be held by secret ballot.
 2. The four types of votes are as follows:
-	1. YES ­ I wish to initiate the candidate.
-	2. NO ­ I wish not to initiate the candidate.
-	3. VETO ­ I have irreconcilable issues with the candidate and strongly oppose initiation.
-	4. ABSTAIN ­ I wish to remove myself from the voting body. BROTHERs wishing to abstain from the vote must formally cast this vote.
+	1. YES - I wish to initiate the candidate.
+	2. NO - I wish not to initiate the candidate.
+	3. VETO - I have irreconcilable issues with the candidate and strongly oppose initiation.
+	4. ABSTAIN - I wish to remove myself from the voting body. BROTHERs wishing to abstain from the vote must formally cast this vote.
 3. The votes will be tallied by the President and the Vice President of Member Education, or in their absence appointed representatives, and if applicable their elected successors. These counters will not ever reveal specific vote totals.
 4. If the number of votes does not equal the size of the voting body, the vote will be retaken.
-5. The TOTAL VOTE will be defined as the total number of non­-ABSTAIN votes.
+5. The TOTAL VOTE will be defined as the total number of non-ABSTAIN votes.
 6. The possible results are as follows:
-	1. If the total of YES votes is less than THREE-­FOURTHS of the TOTAL VOTE, the candidate will not be initiated.
-	2. If the total of YES votes is equal to or greater than THREE­-FOURTHS of the TOTAL VOTE and there are zero VETOes, the candidate will be initiated.
+	1. If the total of YES votes is less than THREE-FOURTHS of the TOTAL VOTE, the candidate will not be initiated.
+	2. If the total of YES votes is equal to or greater than THREE-FOURTHS of the TOTAL VOTE and there are zero VETOes, the candidate will be initiated.
 	3. If at least 10% of the TOTAL VOTE rounded down with a minimum of two are VETO, the candidate will not be initiated.
-	4. If the total of YES votes is equal to or greater than THREE­-FOURTHS of the TOTAL VOTE and at least one VETO was thrown, but not enough to satisfy the case in 6.3, the votes will be discarded and discussion will be re­opened. At the end of discussion, an identical vote will be held, with the exception that should this case be reached again, the candidate will be initiated.
+	4. If the total of YES votes is equal to or greater than THREE-FOURTHS of the TOTAL VOTE and at least one VETO was thrown, but not enough to satisfy the case in 6.3, the votes will be discarded and discussion will be re-opened. At the end of discussion, an identical vote will be held, with the exception that should this case be reached again, the candidate will be initiated.
 7. Regardless of the result, the counters will report only the following:
 	1. Whether or not the candidate will be initiated.
-	2. Whether or not the total of YES votes reached THREE-­FOURTHS of the TOTAL VOTE.
+	2. Whether or not the total of YES votes reached THREE-FOURTHS of the TOTAL VOTE.
 	3. Whether or not any VETOes were thrown.
 
-#### <h4 id="art2sec5">Section 5: Non-MEMBERs</h4>
+#### <h4 id="art2sec5">Section 5: Non-Members</h4>
 
 ##### Law 1: Residence in the Chapter House
 
-1. A Non-­MEMBER may reside in the Chapter House only after SIMPLE majority approval.
+1. A Non-MEMBER may reside in the Chapter House only after SIMPLE majority approval.
 
 ### <h3 id="art3">ARTICLE III: The Executive Committee and Officers</h3>
 
@@ -217,7 +217,7 @@ The bylaws of the Gamma Tau Chapter of the Psi Upsilon Fraternity have been crea
 1. To chair the House Committee as their permanent committee, which will have duties including but not limited to:
 	1. Collecting rent and parlor fees and issuing rent contracts or eviction notices as an agent of PUSOG.
 	2. Ensuring that incidental wear and tear on the Chapter House is repaired.
-	3. Ensuring the house is well­supplied.
+	3. Ensuring the house is well-supplied.
 	4. Keeping the Chapter House clean by holding Full House Cleanup events.
 	5. Assigning house jobs to the residents of the Chapter House.
 	6. Running fundraising activities.
@@ -225,7 +225,7 @@ The bylaws of the Gamma Tau Chapter of the Psi Upsilon Fraternity have been crea
 2. To represent Brother Thesauristes in all ritual activities.
 3. To represent Donatello of the TMNT.
 4. To reside in the Chapter House.
-5. To be the primary BROTHER responsible for the well­being of the facilities and possessions of the Chapter.
+5. To be the primary BROTHER responsible for the well-being of the facilities and possessions of the Chapter.
 
 ##### <h5 id="memberedvp">Law 4: Responsibilities of the Vice President of Member Education</h5>
 
@@ -299,7 +299,7 @@ The bylaws of the Gamma Tau Chapter of the Psi Upsilon Fraternity have been crea
 	5. The meeting chair and the BROTHER taking minutes will count.
 	6. If any candidate receives a SIMPLE majority, they will be elected to the Office in question.
 	7. If no candidates receive a SIMPLE majority and neither of the top two results are No Confidence, a runoff election will be held by the same procedure between the top two results.
-	8. Otherwise, the candidates are asked to return to the meeting, nominations are re­opened, and the election procedure is repeated.
+	8. Otherwise, the candidates are asked to return to the meeting, nominations are re-opened, and the election procedure is repeated.
 
 ##### Law 2: Resignation and Summer Leave
 
@@ -310,8 +310,8 @@ The bylaws of the Gamma Tau Chapter of the Psi Upsilon Fraternity have been crea
 
 ##### Law 3: Involuntary Removal from Office
 
-1. An Officer who will not maintain ACTIVE states during a Non-­Summer semester will be removed from Office.
-2. Officers may be removed from Office by a THREE­-FOURTHs majority vote.
+1. An Officer who will not maintain ACTIVE states during a Non-Summer semester will be removed from Office.
+2. Officers may be removed from Office by a THREE-FOURTHs majority vote.
 	1. The Officer in question must abstain from the vote.
 	2. Any motion to remove an Officer must be tabled for two weeks, and the Officer in question must be aware of the motion for the tabling period.
 3. After removal of an officer, a replacement election will take place, following the procedure in Law 1.
@@ -326,65 +326,65 @@ The bylaws of the Gamma Tau Chapter of the Psi Upsilon Fraternity have been crea
 
 ##### Law 2: Scope
 
-1. The J-­Board may make decisions in the following cases:
+1. The J-Board may make decisions in the following cases:
 	1. A person present in the Chapter House has violated any House policy.
 	2. A MEMBER has acted in a manner egregiously inconsistent with the tenets of Psi Upsilon or any applicable laws.
 	3. A MEMBER has violated these Bylaws or the Psi Upsilon Constitution.
-	4. A BROTHER wishes to appeal a fine levied by any Brotherhood entity other than the J-­Board.
+	4. A BROTHER wishes to appeal a fine levied by any Brotherhood entity other than the J-Board.
 
 #### <h4 id="art4sec2">Section 2: Membership</h4>
 
 ##### Law 1: Members
 
-1. The J­-Board will be made up of 5 primary members and 2 reserve members.
+1. The J-Board will be made up of 5 primary members and 2 reserve members.
 2. The primary members may recuse themselves from any issue, in which case a reserve member will fulfill their role for that issue.
 3. If more than two reserve members are needed, action may be taken by the EC or the Brotherhood.
-4. Members of the J­-Board must be ACTIVE BROTHERs who do not hold an Office.
-5. Any member of the J­-Board may resign, in which case, an interim member will be elected to serve the remainder of the term.
-6. Any member of the J­-Board may be removed by a TWO-­THIRDS majority vote.
+4. Members of the J-Board must be ACTIVE BROTHERs who do not hold an Office.
+5. Any member of the J-Board may resign, in which case, an interim member will be elected to serve the remainder of the term.
+6. Any member of the J-Board may be removed by a TWO-THIRDS majority vote.
 	1. The BROTHER in question must abstain from the vote.
 	2. A replacement will be elected by the procedure in Law 3.
 
 ##### Law 2: Terms of Membership
 
-1. The primary members of the J­-Board will serve one-­year terms, staggered such that three are replaced in the fall and two are replaced in the spring.
-2. The reserve members serve half-­year terms and are replaced in both the fall and spring.
+1. The primary members of the J-Board will serve one-year terms, staggered such that three are replaced in the fall and two are replaced in the spring.
+2. The reserve members serve half-year terms and are replaced in both the fall and spring.
 
 ##### Law 3: Elections
 
-1. J-­Board elections will be held at the beginning of spring and fall semesters.
-2. Nominations will be made by the EC prior to elections. The number of BROTHERs nominated must equal the amount of spots available on the J­-Board plus 2.
+1. J-Board elections will be held at the beginning of spring and fall semesters.
+2. Nominations will be made by the EC prior to elections. The number of BROTHERs nominated must equal the amount of spots available on the J-Board plus 2.
 3. The voting procedure is as follows:
 	1. The candidates will be asked to leave the room.
 	2. The remaining ACTIVE BROTHERs will constitute the voting body.
 	3. With no discussion, each BROTHER in the voting body will vote YES or NO for each candidate.
 	4. BROTHERs may instead abstain from the vote.
-	5. Any candidate who receives a simple majority of YES votes is eligible to be on the J­-Board
-	6. Open J-­Board positions will be filled, primary positions first, by candidates who received the highest percentage YES votes.
+	5. Any candidate who receives a simple majority of YES votes is eligible to be on the J-Board
+	6. Open J-Board positions will be filled, primary positions first, by candidates who received the highest percentage YES votes.
 	7. Ties will be resolved by seniority by initiation date.
 
 #### <h4 id="art4sec3">Section 3: Procedure</h4>
 
 ##### Law 1: Jurisdiction and Meetings
 
-1. Any BROTHER may ask the J-­Board to consider an issue.
-2. The J­-Board may refuse to consider an issue unless mandated to by the Bylaws.
+1. Any BROTHER may ask the J-Board to consider an issue.
+2. The J-Board may refuse to consider an issue unless mandated to by the Bylaws.
 	1. A refused issue may still be brought up to the Brotherhood at large.
-3. The J­-Board must convene as soon as is practical if they have issues to consider.
+3. The J-Board must convene as soon as is practical if they have issues to consider.
 
 ##### Law 2: Decisions
 
-1. The J-­Board is responsible for collecting evidence and testimony to reach a decision.
-2. Decisions of the J-­Board are made by SIMPLE majority vote of the 5 primary members or their reserve replacements.
+1. The J-Board is responsible for collecting evidence and testimony to reach a decision.
+2. Decisions of the J-Board are made by SIMPLE majority vote of the 5 primary members or their reserve replacements.
 3. Majority and minority opinions will be written to be read at the next Brothers’ Meeting.
 
 ##### Law 3: Sentences
 
-1. The J-­Board is granted latitude in sentencing MEMBERs, as long as the sentence does not conflict with these Bylaws or any applicable laws.
-2. The J­-Board may not SUSPEND or EXPEL any BROTHER, but may bring up motions to do so.
-3. The J­-Board may place a BROTHER on PROBATION for no longer than one semester.
-4. The J­-Board may depledge a PLEDGE or suspend that PLEDGE’s PLEDGE status until the next PLEDGE TERM.
-5. The J­-Board may ban any individual from the Chapter House.
+1. The J-Board is granted latitude in sentencing MEMBERs, as long as the sentence does not conflict with these Bylaws or any applicable laws.
+2. The J-Board may not SUSPEND or EXPEL any BROTHER, but may bring up motions to do so.
+3. The J-Board may place a BROTHER on PROBATION for no longer than one semester.
+4. The J-Board may depledge a PLEDGE or suspend that PLEDGE’s PLEDGE status until the next PLEDGE TERM.
+5. The J-Board may ban any individual from the Chapter House.
 6. A sentence may be reduced by a TWO-THIRDS majority vote.
 
 ### <h3 id="art6">Article VI: Article V</h3>
