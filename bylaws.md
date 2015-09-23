@@ -269,7 +269,7 @@ The bylaws of the Gamma Tau Chapter of the Psi Upsilon Fraternity have been crea
 
 #### <h4 id="art3sec2">Section 2: Other Officers</h4>
 
-### Law 1: Treasurer
+##### Law 1: Treasurer
 
 1. The Treasurer is an elected office not included on the EC whose purpose is to allow for a single trusted BROTHER to primarily handle the financial business of the chapter.
 2. The responsibilities of the Treasurer are:
